@@ -10,7 +10,4 @@ node liri.js movie-this '<movie name here>'
 node liri.js do-what-it-says 
 ```
 **Demo:**
-spotify-this-song
-concert-this
-movie-this
-do-what-it-says
+![LIRI Node App Demo](url)
