@@ -10,4 +10,4 @@ node liri.js movie-this '<movie name here>'
 node liri.js do-what-it-says 
 ```
 **Demo:**
-![LIRI Node App Demo](url)
+![LIRI Node App Demo](demo.gif)
